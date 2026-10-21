@@ -1,0 +1,7 @@
+print("=========================")
+print("      PRESENTACIÓN")
+print("=========================")
+print("Nombre: Diana")
+print("Programa: ADSO")
+print("Trimestre: 6")
+print("Ciudad: Bogotá")
